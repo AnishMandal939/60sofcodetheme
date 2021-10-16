@@ -3,7 +3,22 @@
     "displayName": "dark-60s",
     "description": "dark theme coder",
     "version": "0.0.1",
-    "publisher":"60sOfCode",
+    "publisher":"60sCoderTheme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AnishMandal939/60sofcodetheme"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "darktheme",
+        "vscodetheme",
+        "60sofcode",
+        "60ofcodedark",
+        "60ofcodedarktheme",
+        "60softheme",
+        "60sofamatheme"
+    ],
     "engines": {
         "vscode": "^1.61.0"
     },
